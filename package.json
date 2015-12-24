@@ -1,0 +1,15 @@
+{
+  "name": "spjall",
+  "version": "0.1.0",
+  "description": "A simple chat room",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Haukur Páll Hallvarðsson <hph@hph.is>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.3",
+    "ws": "^0.8.1"
+  }
+}
